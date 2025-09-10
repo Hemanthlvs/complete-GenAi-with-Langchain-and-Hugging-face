@@ -8,3 +8,5 @@ bs4
 arxiv
 pymupdf
 wikipedia
+python-dotenv
+langchain_openai
