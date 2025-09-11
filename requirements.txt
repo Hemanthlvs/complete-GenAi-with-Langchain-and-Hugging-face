@@ -10,3 +10,4 @@ pymupdf
 wikipedia
 python-dotenv
 langchain_openai
+chromadb
