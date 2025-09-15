@@ -11,3 +11,5 @@ wikipedia
 python-dotenv
 langchain_openai
 chromadb
+langchain_text_splitters
+faiss-cpu
